@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScaiDemo</string>
+    <string name="chat">Chat</string>
+    <string name="message">👋 Hey Alex, I want some clean modern design that fits together. I like how this design have some space to breathe and is "simple" and minimalistic?</string>
+    <string name="you_don_t_have_any_message">You don’t have any message</string>
+    <string name="dummyTxt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</string>
+    <string name="create_new_message">Create New Message</string>
+    <string name="new_message">New message</string>
+    <string name="cancel">Cancel</string>
+</resources>
